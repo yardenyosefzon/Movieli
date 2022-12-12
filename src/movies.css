@@ -1,0 +1,49 @@
+.r1{
+    height:20vh;
+}
+.r2{
+    height: 80vh;
+}
+.r3{
+    height: 10vh;
+}
+.s{
+    width: 97vw;
+    padding: 0,0,0,0;
+}
+#logo{
+    width: 80%;
+    height:94%;
+    margin-top: 0px;
+}
+
+.col{
+width: 100vh;
+}
+.f{
+    height:133px;
+}
+.inputs{
+    position: relative;
+    width:600px ;
+    margin-top: 150px;
+    margin-left: 365px;
+    z-index: 99;
+}
+.bg-dark{
+    position:fixed;
+width: 100vw;
+height: 100vh;
+z-index: 1;
+}
+.sidebar{
+    margin-top: 25px;
+    
+}
+.fw-bold{
+    color:green;
+    
+}
+.addm{
+    color: aliceblue;
+}
